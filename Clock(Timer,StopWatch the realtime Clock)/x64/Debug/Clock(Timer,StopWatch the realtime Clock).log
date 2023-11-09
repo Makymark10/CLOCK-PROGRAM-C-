@@ -1,0 +1,2 @@
+﻿  Clock(Timer,StopWatch the realtime Clock).cpp
+C:\Users\Acer\Desktop\c++\Clock\Clock(Timer,StopWatch the realtime Clock)\Clock(Timer,StopWatch the realtime Clock).cpp(16,13): error C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696825403 source:c:\users\acer\desktop\c++\clock\main.cpp
+	<iostream>
+	<iomanip>
+	<thread>
+	<chrono>
+	<ctime>
+	<conio.h>
+
